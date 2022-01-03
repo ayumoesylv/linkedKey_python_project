@@ -35,7 +35,6 @@ def return_to_stack():
     print(S)
 
 
-
 # output
 
 if find_x():
@@ -43,5 +42,3 @@ if find_x():
 
 if not find_x():
     print("Stack S does not contain the specified element.")
-
-

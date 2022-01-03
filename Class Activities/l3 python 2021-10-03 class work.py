@@ -31,7 +31,7 @@ class Employee:
             self.salary = float(input("Cannot be below $15. Enter new hourly salary rate: "))
         print(self.salary)
 
-    def __add
+    # def __add
 
 
 
